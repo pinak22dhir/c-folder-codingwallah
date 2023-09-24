@@ -19,4 +19,4 @@ for(int i=1;i<=n;i++){
 }
     return 0;
 }
-//from star period to lasrt hcf question pascal maths without maths 
+//from star period to hcf question pascal maths without maths 

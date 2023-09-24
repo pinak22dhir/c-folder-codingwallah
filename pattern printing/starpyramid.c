@@ -18,14 +18,3 @@ int main(){
       }
     return 0;
 }
-//1.star pyramid to last 
-//2. hcf question 7.30
-//pascal
-//3. roz questions nikaal same samee concept clarity
-//4.solve all doubts all solve 2 times
-//5.recursion 5
-//sructues all file handling 5 
-//arrays 3
-//strings 7.30
-//sorting 11
-//for 1.
